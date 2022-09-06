@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
+Nombre: Gabriel Daniel Volpi
 Usuario Platzi:
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
+- [x] Primer problema
+- [x] Segundo problema
+- [x] Tercer problema
